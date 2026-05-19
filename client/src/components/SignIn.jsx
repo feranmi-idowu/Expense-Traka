@@ -34,7 +34,7 @@ function SignIn() {
 
             <h1 className="title">Expense Traka</h1>
             <h4>Smart Invoice Scanning with Total Financial Clarity</h4>
-            <hr></hr>
+            <hr className="title-line"></hr>
             <div className="hero-card">
               <p>
               Take Complete control of your personal and business finances.
